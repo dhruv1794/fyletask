@@ -1,6 +1,9 @@
-# bottr
+# FYLE TASK
 
 > a simple application 
+> go in and have a look
+> to run it download the source code and install the node modules (npm install )
+> finally just use npm run dev 
 
 ## Build Setup
 
